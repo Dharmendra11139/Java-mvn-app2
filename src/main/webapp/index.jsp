@@ -9,8 +9,9 @@
   <div class="jumbotron" style="background-color:white">
       <img src="https://octodex.github.com/images/spidertocat.png" alt="Spidertocat"
            class="img-responsive center-block" style="width:250px"/>
-      <h2 class="text-center">Hello Deepa Shivhare Yadav</h2>
-      <p class="text-center"> Happy One year of Engagement. I Love You. </p>
+      <h2 class="text-center">Hello Sir</h2>
+      <p class="text-center">  Verifing the application after successful deployment using
+browser </p>
   </div>
 </body>
 </html>
