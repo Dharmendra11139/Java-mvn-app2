@@ -11,7 +11,7 @@
            class="img-responsive center-block" style="width:250px"/>
       <h2 class="text-center">Hello Sir</h2>
       <p class="text-center">  Verifing the application after successful deployment using
-browser </p>
+browser.. </p>
   </div>
 </body>
 </html>
